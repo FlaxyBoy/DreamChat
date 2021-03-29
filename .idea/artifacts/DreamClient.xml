@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DreamClient">
+    <output-path>$USER_HOME$/Desktop/Compiled</output-path>
+    <root id="archive" name="DreamClient.jar">
+      <element id="module-output" name="DreamChatClient" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.59.Final/netty-all-4.1.59.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20201115/json-20201115.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

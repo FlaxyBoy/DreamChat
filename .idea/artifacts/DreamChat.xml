@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DreamChat">
+    <output-path>$USER_HOME$/Desktop/Compiled</output-path>
+    <root id="archive" name="DreamChat.jar">
+      <element id="module-output" name="DreamChat" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/4.0.2/HikariCP-4.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.59.Final/netty-all-4.1.59.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20201115/json-20201115.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/2.0.0-alpha1/slf4j-log4j12-2.0.0-alpha1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
